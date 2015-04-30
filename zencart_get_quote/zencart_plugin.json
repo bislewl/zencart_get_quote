@@ -1,8 +1,8 @@
 {
-    "plugin_id": "191",
-    "github_repo": "https://github.com/bislewl/zencart_dhl_ecommerce.git",
-    "name": "DHL eCommerce Shipping",
+    "plugin_id": "0",
+    "github_repo": "https://github.com/bislewl/zencart_get_quote.git",
+    "name": "Get a Quote Page",
     "author": "bislewl",
-    "description": "This module is for DHL eCommerce Shipping, this is NOT for DHL express",
+    "description": "This module is a set of files to add a get a quote page with a upload field",
     "support_thread": ""
 }
