@@ -1,1 +1,1 @@
-Installation and other information about this module are located at docs/readme.html
+See readme.html for installation instructions
